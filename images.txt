@@ -1,1 +1,1 @@
-jellyfin/jellyfin
+netdata/netdata
