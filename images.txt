@@ -1,7 +1,1 @@
-xiaoyaliu/alist
-zerotier/zerotier-synology
-gotson/komga
-nyanmisaka/jellyfin
-hslr/sun-panel
-dezhao/tachidesk_cn
-zishuo/embyserve
+immich-app/immich-server
