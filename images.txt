@@ -1,2 +1,1 @@
-b3log/siyuan
-ghcr.nju.edu.cn/immich-app/immich-server
+adguard/adguardhome
