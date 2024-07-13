@@ -1,2 +1,2 @@
 b3log/siyuan
-immich-app/immich-server
+
