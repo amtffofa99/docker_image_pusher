@@ -22,3 +22,4 @@ gotson/komga
 nyanmisaka/jellyfin
 hslr/sun-panel
 dezhao/tachidesk_cn
+immich-app/immich-server
